@@ -9,7 +9,7 @@ Using data from over 25,000 NBA games spanning 75+ years, this project investiga
 - Analyze whether home teams have a measurable advantage
 - Visualize scoring and shooting trends across decades
 - Predict **margin of victory** using linear regression
-- Predict **home team win** (binary outcome) using classification models
+- Predict **home team win** (binary outcome) using classification models (Logistic and Random Forest)
 
 ---
 
