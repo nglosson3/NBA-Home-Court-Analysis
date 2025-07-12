@@ -46,7 +46,7 @@ Using data from over 25,000 NBA games spanning 75+ years, this project investiga
 
 ---
 
-## 📌 Future Improvements
+## 📌 Room for Improvement
 
 - Include team strength metrics (Elo ratings, standings)
 - Compare pre-COVID vs. post-COVID era
