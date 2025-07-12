@@ -22,16 +22,6 @@ Using data from over 25,000 NBA games spanning 75+ years, this project investiga
 
 ---
 
-## 🗂️ Notebooks Included
-
-| File | Description |
-|------|-------------|
-| `1_eda_and_visuals.ipynb` | Exploratory data analysis, home vs. away stats, historical win rates, KDE and box plots |
-| `2_regression_modeling.ipynb` | Linear regression (OLS) to predict point differentials based on team stats |
-| `3_classification_models.ipynb` | Logistic Regression & Random Forest models to classify home team wins |
-
----
-
 ## 📊 Key Insights
 
 - **Home teams win ~60.5%** of games across history
