@@ -35,10 +35,9 @@ Using data from over 25,000 NBA games spanning 75+ years, this project investiga
 ---
 
 ## 📈 Visual Highlights
-<img width="448" height="453" alt="ROC_Curve" src="https://github.com/user-attachments/assets/d2a74594-3be7-46a8-85dc-fbbe45fec771" />
 
-### Home Win % Over Time
-![home_win_trend](outputs/home_win_trend_plot.png)
+### Home Win % Over Time (Excluding 1960 due to Incomplete Data)
+<img width="400" height="250" alt="Home_win" src="https://github.com/user-attachments/assets/dbf8d721-d8d9-4e70-995a-c553e6e44a34" />
 
 ### Logistic Regression ROC Curve
 ![roc_logistic](outputs/roc_curve_logistic.png)
