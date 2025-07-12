@@ -41,7 +41,8 @@ Using data from over 25,000 NBA games spanning 75+ years, this project investiga
 <img width="450" height="350" alt="Home_win" src="https://github.com/user-attachments/assets/dbf8d721-d8d9-4e70-995a-c553e6e44a34" />
 
 ### Logistic Regression ROC Curve
-![roc_logistic](outputs/roc_curve_logistic.png)
+
+<img width="450" height="350" alt="ROC_Curve" src="https://github.com/user-attachments/assets/eae3f5f4-ff9a-4476-840e-173837b70a33" />
 
 ---
 
