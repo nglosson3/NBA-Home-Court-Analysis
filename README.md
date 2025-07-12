@@ -19,7 +19,10 @@ Using data from over 25,000 NBA games spanning 75+ years, this project investiga
 - **Modeling**: statsmodels, scikit-learn (OLS, Logistic Regression, Random Forest)
 - **Data Visualization**: seaborn, matplotlib
 - **Data Source**: 25,000+ NBA games from regular season and playoffs
+---
 
+## Data Source
+https://www.kaggle.com/datasets/wyattowalsh/basketball/data
 
 ---
 
